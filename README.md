@@ -1,2 +1,26 @@
-# ATCIU
- Large-scale Natural Language Understanding Benchmark for Air Traffic Control Instruction
+1.ATCIU
+
+Large-scale Natural Language Understanding Benchmark for Air Traffic Control Instruction
+
+This repository is for our paper.
+
+==========================================================================================================
+
+-----------COPYRIGHT NOTICE STARTS WITH THIS LINE------------
+
+Copyright (c) 2024, Beihang University, China.
+
+All rights reserved.
+
+2.License
+
+Permission to use, copy, or modify this database and its documentation for educational and research purposes only and without fee is hereby granted, provided that this copyright notice and the original authors' names appear on all copies and supporting documentation. This program shall not be used, rewritten, or adapted as the basis of a commercial software or hardware product without first obtaining permission of the authors. The authors make no representations about the suitability of this software for any purpose. It is provided "as is" without explicit or implied warranty.
+
+3.Database
+
+Our ATCIU dataset contains specially processed textual data for air traffic control instructions understanding, which will be available. Please contact with atmh_zhang@buaa.edu.cn if you have further questions, thanks a lot!
+
+4.Reference
+
+
+5.Acknowledgement
